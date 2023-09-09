@@ -21,14 +21,14 @@ Before running the tests, ensure you have the following prerequisites installed:
 
 - **Node.js:** Ensure you have Node.js installed on your system. You can download it from [nodejs.org](https://nodejs.org/).
 
-- **WebdriverIO:** You can find necessary steps to install and run webdriverio through the following website [https://webdriver.io/docs/gettingstarted/]
+- **WebdriverIO:** You can find necessary steps to install and run webdriverio through the following website [webdriver.io](https://webdriver.io/docs/gettingstarted/)
 
 
 
 ## Installation
 
 1. Clone this repository to your local machine: 
-# https://github.com/JeathRahmatUllah/SQA
+# https://github.com/NaimMorshed/orange-webdriverio-test.git
 2. Navigate to the project directory:
 3. Install project dependencies:
 
@@ -41,27 +41,26 @@ This will execute all the defined test suites.
 
 ## Test Descriptions
 
-- **Login Test**: Validates login functionality with valid and invalid credentials.
-- **Delete User Test**: Tests user deletion functionality.
-- **Update User Test**: Tests user profile update functionality.
-- **Generate Report Test**: Verifies report generation functionality.
-- **Export Data Test**: Tests data export functionality.
-- **UI Test**: Validates the layout of the OrangeHRM home page.
-- **Integration Test**: Verifies integration with an external system.
-- **Performance Test**: Tests system performance under concurrent user load.
+- **Login Test**: Validates login functionality with valid credentials.
+- **Invalid Login Test**: Test login functionality with invalid credentials.
+- **Performance Test**: Returned the response time for login page.
+- **Navigation Test**: Verifying the targeted page is displaying properly.
+- **Workflow Test**: Added an employee and verified employee data.
+- **Integration Test**: Simulate interactions between the login and employee management sections.
+- **Localization Test**: Tested against English, French and Spanish.
+- **UI Test**: Tested the button and the fields of login page UI.
 
 ## Test Code
 
 You can find the test code in the following files:
 
-- `login.spec.js`
-- `delete-user.spec.js`
-- `update-user.spec.js`
-- `generate-report.spec.js`
-- `export-data.spec.js`
-- `ui-test.spec.js`
-- `integration-test.spec.js`
-- `performance-test.spec.js`
+- `loginTest.js`
+- `performanceTest.js`
+- `navigationTest.js`
+- `workflowTest.js`
+- `integrationTest.js`
+- `localizationTest.js`
+- `uiTest.js`
 
 Each test file contains detailed test scenarios and steps.
 
