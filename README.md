@@ -66,7 +66,3 @@ Each test file contains detailed test scenarios and steps.
 ## Contributing
 
 Contributions are welcome! If you have suggestions or find issues, please open a GitHub issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
