@@ -27,8 +27,7 @@ Before running the tests, ensure you have the following prerequisites installed:
 
 ## Installation
 
-1. Clone this repository to your local machine: 
-# https://github.com/NaimMorshed/orange-webdriverio-test.git
+1. Clone this repository to your local machine: https://github.com/NaimMorshed/orange-webdriverio-test.git
 2. Navigate to the project directory:
 3. Install project dependencies:
 
