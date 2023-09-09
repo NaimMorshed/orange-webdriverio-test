@@ -1,8 +1,5 @@
 # Naim Morshed : 011191208
-# WEBDRIVERIO testing guideline
-# SQA
-This project involved comprehensive testing of OrangeHRM, a human resource management system, encompassing functionality, integration, and performance tests to ensure smooth operations and accurate data management.
-
+# Testing through WEBDRIVERIO
 
 # OrangeHRM Testing Project
 
@@ -27,8 +24,6 @@ Before running the tests, ensure you have the following prerequisites installed:
 - **Protractor:** Protractor is used for end-to-end testing. Install it globally via npm:
 
 
-
-- **WebDriver:** You'll need a WebDriver compatible with your browser (e.g., ChromeDriver, GeckoDriver for Firefox). Download and install the appropriate WebDriver and add its path to your system's PATH variable.
 
 ## Installation
 
