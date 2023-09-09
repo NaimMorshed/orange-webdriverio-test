@@ -1,5 +1,5 @@
-# Jeath Rahmat Ullah : 011191036
-# JASMINE testing guideline
+# Naim Morshed : 011191208
+# WEBDRIVERIO testing guideline
 # SQA
 This project involved comprehensive testing of OrangeHRM, a human resource management system, encompassing functionality, integration, and performance tests to ensure smooth operations and accurate data management.
 
