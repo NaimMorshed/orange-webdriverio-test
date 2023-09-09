@@ -21,7 +21,7 @@ Before running the tests, ensure you have the following prerequisites installed:
 
 - **Node.js:** Ensure you have Node.js installed on your system. You can download it from [nodejs.org](https://nodejs.org/).
 
-- **Protractor:** Protractor is used for end-to-end testing. Install it globally via npm:
+- **WebdriverIO:** You can find necessary steps to install and run webdriverio through the following website [https://webdriver.io/docs/gettingstarted/]
 
 
 
